@@ -58,7 +58,7 @@ Users can browse sample AI-generated images, discover creative prompt styles, an
 ## 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/bobby720/Nano-gallery.git
+https://github.com/bobby720/Nano-gallery.git
 ```
 
 ## 2️⃣ Navigate to Project Folder
