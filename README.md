@@ -1,6 +1,6 @@
 # Nano Gallery
 
-> A modern responsive image gallery website with a clean UI and smooth browsing experience.
+> A modern responsive image gallery website with a clean UI and smooth browsing experience. 
 
 ---
 
@@ -48,7 +48,6 @@ Users can browse sample AI-generated images, discover creative prompt styles, an
 <img width="1897" height="873" alt="Screenshot 2026-05-25 201448" src="https://github.com/user-attachments/assets/8c71edcc-42a6-492b-ae5e-84e1456a357d" />
 <img width="1883" height="806" alt="Screenshot 2026-05-25 201504" src="https://github.com/user-attachments/assets/e624d710-9636-4271-91a2-893a116896a1" />
 <img width="1887" height="810" alt="Screenshot 2026-05-25 201634" src="https://github.com/user-attachments/assets/f5d0b6b5-2252-4529-b586-d8e0bd3faf02" />
-
 
 
 ---
