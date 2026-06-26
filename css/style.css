@@ -359,6 +359,12 @@ h2 {
 }
 /* CARD */
 
+#noResults {
+  display: none;
+  text-align: center;
+  margin-top: 20px;
+}
+
 .prompt-card {
   background: #0f172a;
   border: 1px solid #1f2937;
