@@ -4,7 +4,7 @@
 
 ---
  
-# 🚀 Overview 
+# 🚀 Overview  
 
 Nano Gallery is a modern AI prompt gallery website designed for showcasing and generating AI images using Gemini AI prompts. The platform allows users to explore creative prompt ideas, view sample AI-generated artworks, and use prompts to generate their own visuals.
 
